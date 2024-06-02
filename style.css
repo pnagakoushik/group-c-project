@@ -1,0 +1,140 @@
+.page {
+    display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     background-color: rgb(12, 12, 12);
+   border: #f57506;
+   border-width: 25px;
+   border-style: groove;
+   }
+   .page>div {
+     background-color: #f7f0f0;
+     background-size: cover;
+     width: 350px;
+     height: 550px;
+     text-align: center;
+     line-height: 20px;
+     font-size: 10px;
+     padding-left: px;
+     margin:25px;
+     border-radius: px; 
+   }
+ 
+ #bg-img-of-container1{
+   background: rgb(18, 17, 17);
+   background-image: url("man.jpeg");
+   padding-left: 25px;
+   background-position: fixed;
+   background-repeat: no-repeat;
+ }
+ .profile-img1-container{
+   margin-left: 33%;
+   margin-top:150px;
+ }
+ #profile-img1{
+   height:100px;
+   width: 100px;
+   border: #fbfbfb;
+   border-width: 5px;
+   border-style: none;
+   border-radius: 50%;
+   background-image: url("pngimg.com\ -\ mandalorian_PNG23.png");
+   background-size: cover;
+ }
+ .icons1 {
+   display: flex;
+ margin-top: 40px;
+  
+  font-size: x-large;
+ }
+ .icons1 i {
+   font-size: 24px;
+ }
+ .icons1 a{
+   margin-left: 3px;
+   margin-right: 135px;
+ }
+ #bg-img-of-container2{
+ 
+   background: rgb(255, 255, 255);
+   background-image: url("indiana_jones_background_by_karllis_d5hnq13-fullview.jpg");
+   padding-left: 25px;
+   background-position: fixed;
+   background-repeat: no-repeat;
+ }
+ .profile-img2-container{
+   margin-left: 33%;
+   margin-top:150px;
+ }
+ #profile-img2{
+   height:100px;
+   width: 100px;
+   border: #fbfbfb;
+   border-width: 5px;
+   border-style: none;
+   border-radius: 50%;
+   background-image: url("img1.jpeg");
+   background-size: cover;
+ }
+ #content2{
+   text-align: left;
+ line-height: 20px;
+ }
+ #content2 h2,p{
+    text-align: center;
+    
+ }
+.icons2 {
+  display: flex;
+margin-top: 0px;
+ font-size: x-large;
+}
+.icons2 i {
+  font-size: 24px;
+}
+.icons2 a{
+  margin-left: 1px;
+  margin-right: 120px;
+}
+
+ 
+ 
+ 
+ 
+ #bg-img-of-container3{
+   background: rgb(255, 255, 255);
+   background-image: url("new-poster-of-kalki-2898-ad-v0-8kpxa2cy3z3d1.webp");
+   padding-left: 25px;
+   background-position: fixed;
+   background-repeat: no-repeat;
+ }
+ .profile-img3-container{
+   margin-left: 33%;
+   margin-top:150px;
+ }
+ #profile-img3{
+   height:100px;
+   width: 100px;
+   border: #fbfbfb;
+   border-width: 5px;
+   border-style: none;
+   border-radius: 50%;
+   background-image: url("bvUq7ITn_400x400.jpg");
+   background-size: cover;
+ }
+ 
+ 
+ 
+ 
+ #container1{
+   padding: 0px;
+ }
+ #content1{
+     height: 200px;
+     margin: 0px;
+ }
+ 
+ .peru{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ color: #f7f0f0;
+ }
